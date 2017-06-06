@@ -5,6 +5,8 @@ _**Fork this Repo, complete your code and submit a Pull Request to complete your
 
 For help learning Git, check out the Git tutorial here: https://try.github.io/levels/1/challenges/1
 
+For instructions on how to submit a Pull Request from a Fork: https://github.com/PlusConsultingAppDev/CodeTest-Grid/
+
 ## Overview
 You will create an application for interacting with product data. The system must have CRUD capabilities. For the purposes of this test, you have the option to leverage any database technology you feel comfortable using. You can use any .NET/Client-Side architecture(s) of your choice to complete the requirements outlined below.
 Our evaluation process places emphasis on clean, well-structured code.  
@@ -27,6 +29,7 @@ The following fields will need to be visible on the grid: (Optionally, they can 
 -	ReorderPoint
 -	StandardCost 
 -	ListPrice
+
 ## Overview
 Users must be able to view the data in a grid format and include one or more the following capabilities:
 1.	View Data within a Grid
