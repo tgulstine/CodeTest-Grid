@@ -5,7 +5,7 @@ _**Fork this Repo, complete your code and submit a Pull Request to complete your
 
 For help learning Git, check out the Git tutorial here: https://try.github.io/levels/1/challenges/1
 
-For instructions on how to submit a Pull Request from a Fork: https://github.com/PlusConsultingAppDev/CodeTest-Grid/
+For instructions on how to submit a Pull Request from a Fork: https://help.github.com/articles/creating-a-pull-request-from-a-fork/
 
 ## Overview
 You will create an application for interacting with product data. The system must have CRUD capabilities. For the purposes of this test, you have the option to leverage any database technology you feel comfortable using. You can use any .NET/Client-Side architecture(s) of your choice to complete the requirements outlined below.
