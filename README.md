@@ -21,7 +21,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=29062
 (Optionally) To hasten your progress, if you’re familiar with SQL server, the AdventureWorks2012 database can be obtained here: http://msftdbprodsamples.codeplex.com/releases/view/93587
 
 ## Requirements
-The following fields will need to be visible on the grid: (Optionally, they can be found in the [Production].[Products] table in the AdventureWorks2012 database)
+The following fields will need to be visible on the grid: (Optionally, they can be found in the [Production].[Product] table in the AdventureWorks2012 database)
 -	Name
 -	ProductNumber
 -	Color
